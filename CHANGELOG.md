@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.32.2 (Unreleased)
+
+#### Features
+
+- Added `Prover::prove_vm_witness` so callers can prove a split `VmWitness` that contains no deferred precompile work ([#3829](https://github.com/0xMiden/miden-vm/issues/3829)).
+
 ## v0.32.1 (Unreleased)
 
 #### Features
