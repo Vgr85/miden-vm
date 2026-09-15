@@ -4,7 +4,7 @@
 
 #### Features
 
-- Added `Prover::prove_vm_witness` so callers can prove a split `VmWitness` that contains no deferred precompile work ([#3829](https://github.com/0xMiden/miden-vm/issues/3829)).
+- Added `Prover::prove_vm_witness` so callers can prove a split `VmWitness` that contains no deferred precompile work ([#3837](https://github.com/0xMiden/miden-vm/pull/3837)).
 
 ## v0.32.1 (Unreleased)
 
